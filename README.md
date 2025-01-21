@@ -2,8 +2,8 @@
  
 # Ejercicio 4:
 # Crear una lista enlazada con 50 números enteros, del 1 al 999 generados aleatoriamente. Una 
-vez creada la lista, se deben eliminar los nodos que estén fuera de un rango de valores leídos
-desde el teclado.
+# vez creada la lista, se deben eliminar los nodos que estén fuera de un rango de valores leídos
+# desde el teclado.
 
 # Ejercicio 6:
 # Crear un programa que maneje el registro de los estudiantes de la unidad curricular de
